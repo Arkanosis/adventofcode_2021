@@ -9,7 +9,7 @@
  - [ ] F#
  - [ ] Forth
  - [ ] Go
- - [ ] Haskell
+ - [X] Haskell
  - [ ] Julia
  - [ ] Kotlin
  - [ ] Lua
